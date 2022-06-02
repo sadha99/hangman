@@ -1,4 +1,3 @@
-from secrets import choice
 from words import words
 import random
 import string
